@@ -15,7 +15,7 @@ I'm now familiar and experienced with DevOps,Hybrid Cloud computing,AndroidApp D
 
 Along with the Curiousity I've for tech, I'm also a constructive critic,social,empowering and a team player with capability of wearing multi hats adds on a equal weightage.😇
 
-###My Tech Stack :
+My Tech Stack :
 
 --> Git,Jenkins,Ml Flrameworks,Flutter
 
