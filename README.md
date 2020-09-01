@@ -4,7 +4,7 @@
 **SriSravyaN/SriSravyaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###About me 
-<h3>I am a proactive ,enthusiastic and curious girl 🌸</h3>
+I am a proactive ,enthusiastic and curious girl 🌸
 I always loved learning and understanding,exploring new things, new technologies .
 
 The very first technology I was into is machine learning and
