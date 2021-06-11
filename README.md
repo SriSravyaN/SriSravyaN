@@ -43,7 +43,7 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
- ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+
  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
