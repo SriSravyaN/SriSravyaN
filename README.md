@@ -16,7 +16,7 @@
   
  ## About Me ✍
  
- I m <b> Sri Sravya</b>, a <b>Computer Science Engineering</b> And a Software Engineer at [<b>ADP</b>](http://adp.com/). As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I'm passionated about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Sri Sravya</b>, a <b>Computer Science Engineer</b> And a Software Engineer at [<b>ADP</b>](http://adp.com/). As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I'm passionated about understanding the core concepts behind different popular Technological Fields. 
 
 </div>
 
